@@ -843,3 +843,33 @@
 2025-08-12 09:30:28,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Aug 12, 2025 9:30:28 AM java.util.prefs.FileSystemPreferences syncWorld
 2025-08-12 09:30:28,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: Couldn't get file lock.
 2025-08-12 09:30:28,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2025-08-12 09:30:58,016 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Aug 12, 2025 9:30:58 AM java.util.prefs.FileSystemPreferences checkLockFile0ErrorCode
+2025-08-12 09:30:58,016 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Could not lock System prefs. Unix error code 2.
+2025-08-12 09:30:58,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2025-08-12 09:30:58,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Aug 12, 2025 9:30:58 AM java.util.prefs.FileSystemPreferences syncWorld
+2025-08-12 09:30:58,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: Couldn't get file lock.
+2025-08-12 09:30:58,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2025-08-12 09:31:28,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Aug 12, 2025 9:31:28 AM java.util.prefs.FileSystemPreferences checkLockFile0ErrorCode
+2025-08-12 09:31:28,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Could not lock System prefs. Unix error code 2.
+2025-08-12 09:31:28,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2025-08-12 09:31:28,018 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Aug 12, 2025 9:31:28 AM java.util.prefs.FileSystemPreferences syncWorld
+2025-08-12 09:31:28,018 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: Couldn't get file lock.
+2025-08-12 09:31:28,018 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2025-08-12 09:31:58,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Aug 12, 2025 9:31:58 AM java.util.prefs.FileSystemPreferences checkLockFile0ErrorCode
+2025-08-12 09:31:58,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Could not lock System prefs. Unix error code 2.
+2025-08-12 09:31:58,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2025-08-12 09:31:58,018 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Aug 12, 2025 9:31:58 AM java.util.prefs.FileSystemPreferences syncWorld
+2025-08-12 09:31:58,018 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: Couldn't get file lock.
+2025-08-12 09:31:58,018 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2025-08-12 09:32:28,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Aug 12, 2025 9:32:28 AM java.util.prefs.FileSystemPreferences checkLockFile0ErrorCode
+2025-08-12 09:32:28,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Could not lock System prefs. Unix error code 2.
+2025-08-12 09:32:28,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2025-08-12 09:32:28,018 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Aug 12, 2025 9:32:28 AM java.util.prefs.FileSystemPreferences syncWorld
+2025-08-12 09:32:28,018 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: Couldn't get file lock.
+2025-08-12 09:32:28,019 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2025-08-12 09:32:58,016 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Aug 12, 2025 9:32:58 AM java.util.prefs.FileSystemPreferences checkLockFile0ErrorCode
+2025-08-12 09:32:58,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Could not lock System prefs. Unix error code 2.
+2025-08-12 09:32:58,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2025-08-12 09:32:58,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Aug 12, 2025 9:32:58 AM java.util.prefs.FileSystemPreferences syncWorld
+2025-08-12 09:32:58,018 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: Couldn't get file lock.
+2025-08-12 09:32:58,018 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
